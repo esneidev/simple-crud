@@ -12,7 +12,7 @@
 	<form action="addAction.php" method="post" name="add">
 		<table width="25%" border="0">
 			<tr> 
-				<td>Nombre</td>
+				<td>Nombreee</td>
 				<td><input type="text" name="name"></td>
 			</tr>
 			<tr> 
