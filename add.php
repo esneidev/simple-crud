@@ -46,6 +46,19 @@
 				<td><input type="submit" email="submit" value="Add"></td>
 			</tr>
 			<tr> 
+				<td>Gender</td>
+				<select name="" id="">
+					<option value="">Select</option>
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+					<option value="other">Other</option>
+				</select>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td><input type="password" name="password"></td>
+			</tr>
+			<tr> 
 				<td></td>
 				<td><input type="submit" gender="submit" value="Add"></td>
 			</tr>
