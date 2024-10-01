@@ -6,6 +6,7 @@
 <body>
 	<h2>Agregar los datos nuevos</h2>
 	<p>
+		<a href="index.php">Pagina principla de nuevo por segunda vez</a>
 		<a href="index.php">Pagina principla de nuevo en master</a>
 	</p>
 
