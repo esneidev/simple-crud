@@ -4,7 +4,7 @@
 </head>
 
 <body>
-	<h2>Add Data</h2>
+	<h2>Agregar los datos</h2>
 	<p>
 		<a href="index.php">Pagina principla de nuevo</a>
 	</p>
