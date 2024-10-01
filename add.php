@@ -8,6 +8,8 @@
 	<p>
 		<a href="index.php">Pagina principla de nuevo por segunda vez</a>
 		<a href="index.php">Cambio de pagina principla de nuevo en master</a>
+		<a href="index.php">Pagina principla de nuevo por tercera vez</a>
+
 	</p>
 
 	<form action="addAction.php" method="post" name="add">
