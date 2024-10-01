@@ -6,7 +6,7 @@
 <body>
 	<h2>Add Data</h2>
 	<p>
-		<a href="index.php">Pagina de inicio</a>
+		<a href="index.php">saldrá error o q</a>
 	</p>
 
 	<form action="addAction.php" method="post" name="add">
