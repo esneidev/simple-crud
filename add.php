@@ -6,7 +6,7 @@
 <body>
 	<h2>Add Data</h2>
 	<p>
-		<a href="index.php">Home</a>
+		<a href="index.php">Pagina de inicio</a>
 	</p>
 
 	<form action="addAction.php" method="post" name="add">
@@ -38,15 +38,11 @@
 				</td>
 			</tr>
 			<tr> 
-				<td></td>
-				<td><input type="submit" name="submit" value="Add"></td>
-			</tr>
-			<tr> 
-				<td></td>
+				<td>Input test</td>
 				<td><input type="submit" age="submit" value="Add"></td>
 			</tr>
 			<tr> 
-				<td></td>
+				<td>Input test</td>
 				<td><input type="submit" email="submit" value="Add"></td>
 			</tr>
 			<tr> 
