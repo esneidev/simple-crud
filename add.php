@@ -32,6 +32,10 @@
 					<option value="other">Other</option>
 				</select>
 			</tr>
+			<tr>
+				<td>Password</td>
+				<td><input type="password" name="password"></td>
+			</tr>
 			<tr> 
 				<td></td>
 				<td><input type="submit" name="submit" value="Add"></td>
