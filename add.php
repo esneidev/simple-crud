@@ -24,6 +24,15 @@
 				<td><input type="text" name="email"></td>
 			</tr>
 			<tr> 
+				<td>Gender</td>
+				<select name="" id="">
+					<option value="">Select</option>
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+					<option value="other">Other</option>
+				</select>
+			</tr>
+			<tr> 
 				<td></td>
 				<td><input type="submit" name="submit" value="Add"></td>
 			</tr>
