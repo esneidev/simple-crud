@@ -14,10 +14,10 @@ def dividir(x, y):
 
 def calculadora():
     print("Selecciona una operación:")
-    print("1. Sumar")
-    print("2. Restar")
+    print("1. Multiplicar")
+    print("2. Multiplicar")
     print("3. Multiplicar")
-    print("4. Dividir")
+    print("4. Multiplicar")
 
     opcion = input("Ingresa la opcion de la operación: ")
 
