@@ -27,6 +27,14 @@
 				<td></td>
 				<td><input type="submit" name="submit" value="Add"></td>
 			</tr>
+			<tr> 
+				<td></td>
+				<td><input type="submit" age="submit" value="Add"></td>
+			</tr>
+			<tr> 
+				<td></td>
+				<td><input type="submit" email="submit" value="Add"></td>
+			</tr>
 		</table>
 	</form>
 </body>
